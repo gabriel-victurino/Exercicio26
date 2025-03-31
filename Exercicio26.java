@@ -1,13 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
-
 package com.mycompany.exercicio26;
-
-/**
- *
- * @author 10725113959
- */
 import java.util.Scanner;
 public class Exercicio26 {
 
